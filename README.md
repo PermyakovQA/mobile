@@ -8,7 +8,7 @@ Test suite shopping-list
 https://github.com/PermyakovQA/mobile/blob/main/Test%20suite%20mobile.pdf
 
 Bug reports
-https://github.com/PermyakovQA/mobile/blob/main/Bug%20reports%20youtrack.xlsx
+https://github.com/PermyakovQA/mobile/blob/main/Bur%20reports%20YouTrack.xlsx
 
 Test run
 https://github.com/PermyakovQA/mobile/blob/main/G101-Test%2Brun%2B2025_10_25.pdf
