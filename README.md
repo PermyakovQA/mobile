@@ -1,20 +1,14 @@
-# mobile
+# 📱 Mobile Testing
 
-Тестирование мобильных приложений
-Чек-лист shopping-list
-https://docs.google.com/spreadsheets/d/1VWkNJgmHFNqTGc2QocyNu6PMQeV7VUrA07ZpuTNwOHk/edit?gid=0#gid=0
+## Тестирование мобильного приложения для Android. Для тестирования я использовал "Android studio" и "Proxyman".
+С результатами можно ознакомиться ниже.
+## 📁 Тестовые артефакты
 
-Test suite shopping-list
-https://github.com/PermyakovQA/mobile/blob/main/Test%20suite%20mobile.pdf
-
-Bug reports
-https://github.com/PermyakovQA/mobile/blob/main/Bur%20reports%20YouTrack.xlsx
-
-Test run
-https://github.com/PermyakovQA/mobile/blob/main/G101-Test%2Brun%2B2025_10_25.pdf
-
-Test summary report
-https://github.com/PermyakovQA/mobile/blob/main/%D0%9E%D1%82%D1%87%D0%B5%D1%82_%D0%BE_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85_%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.pdf
-
-Работа в proxyman
-https://drive.google.com/drive/folders/1Ja_n0epFUqakuA-LRbTPZ1rw14uWS8Rj?hl=ru
+| Артефакты | содержание |
+| --- | --- |
+| [Check-list shopping-list](https://docs.google.com/spreadsheets/d/1VWkNJgmHFNqTGc2QocyNu6PMQeV7VUrA07ZpuTNwOHk/edit?gid=0#gid=0) | Полный чек-лист для проверок - систематизированный перечень тестовых сценариев, охватывающий функциональность, общие проверки для тестирования мобильного приложения, UI/UX и основные пользовательские сценарии |
+| [Test suite shopping-list](https://github.com/PermyakovQA/mobile/blob/main/Test%20suite%20mobile.pdf) | Набор тестов - структурированный набор тест-кейсов с детальными шагами воспроизведения, ожидаемыми и фактическими результатами |
+| [Bug reports](https://github.com/PermyakovQA/mobile/blob/main/Bur%20reports%20YouTrack.xlsx) | Отчёты о дефектах - обнаруженные ошибки с приоритетами, шагами воиспроизведения, скриншотами и логами |
+| [Test run](https://github.com/PermyakovQA/mobile/blob/main/G101-Test%2Brun%2B2025_10_25.pdf) | Результаты тестового прогона - отчёт о выполнении тестовой сессии с статистикой |
+| [Test summary report](https://github.com/PermyakovQA/mobile/blob/main/%D0%9E%D1%82%D1%87%D0%B5%D1%82_%D0%BE_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85_%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.pdf) | Отчет по результату тестирования - финальная оценка качества приложения с выводами и рекомендациями к релизу |
+| [Работа в proxyman](https://drive.google.com/drive/folders/1Ja_n0epFUqakuA-LRbTPZ1rw14uWS8Rj?hl=ru) | Анализ сетевого взаимодействия - перехват и исследование API-запросов |
